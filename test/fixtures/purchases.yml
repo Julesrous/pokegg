@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price_poke_egg: 1
+  available: false
+  transport_type: MyString
+  transport_time: 1
+  date_arriving: 2020-09-06
+  transport_price: 1
+  total_price: 1
+  user: one
+  poke_egg: one
+
+two:
+  price_poke_egg: 1
+  available: false
+  transport_type: MyString
+  transport_time: 1
+  date_arriving: 2020-09-06
+  transport_price: 1
+  total_price: 1
+  user: two
+  poke_egg: two
